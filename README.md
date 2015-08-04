@@ -1,6 +1,8 @@
 # the-right-way
-the right way 
-HtmlCss-The-Right-Way: [](http://htmlcsstherightway.org/)
+
+搜集 the right way 系列，这系列一直是该方面技术很好的学习资料
+
+HtmlCss-The-Right-Way: [HtmlCss-The-Right-Way](http://htmlcsstherightway.org/)
 
 JS-The-Right-Way: [js-the-right-way](http://jstherightway.org/)
 
